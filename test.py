@@ -1,0 +1,1 @@
+os.system('Python main.py')
